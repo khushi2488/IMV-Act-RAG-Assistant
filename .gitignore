@@ -1,6 +1,7 @@
 # Environment & secrets
 .env
 venv/
+venv_py311/
 
 # Python cache
 __pycache__/
@@ -11,7 +12,7 @@ __pycache__/
 
 # Qdrant local data
 qdrant_data/
-
+faiss_mva_index/
 # Jupyter
 .ipynb_checkpoints/
 

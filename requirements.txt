@@ -1,22 +1,36 @@
-ipykernel
+# ipykernel
+# langchain
+# langchain_community
+# pandas
+# numpy
+# sentence_transformers
+# qdrant-client
+# torch
+# unstructured
+# markdown
+# langchain_ollama
+# langchain-groq
+# langchain_huggingface
+# python-dotenv
+# streamlit
+# arxiv
+# wikipedia
+# duckduckgo-search
+# validators==0.28.1a
+# youtube_transcript_api
+# pytube
+# websockets
 langchain
-langchain_community
-pandas
-numpy
-sentence_transformers
-qdrant-client
-torch
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+sentence-transformers
+streamlit
+python-dotenv
 unstructured
 markdown
-langchain_ollama
-langchain-groq
-langchain_huggingface
-python-dotenv
-streamlit
-arxiv
-wikipedia
-duckduckgo-search
-validators==0.28.1
-youtube_transcript_api
-pytube
-websockets
+torch
+numpy
+pandas
